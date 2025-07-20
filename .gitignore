@@ -1,0 +1,11 @@
+# Ignorar configurações sensíveis
+/src/main/resources/application.properties
+
+# Ignorar pastas de build
+/target
+
+# Ignorar arquivos de IDE
+*.iml
+*.log
+.idea/
+.vscode/
